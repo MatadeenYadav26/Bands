@@ -6,6 +6,7 @@
 html,body{
     height: 100%;
     width: 100%;
+    background-color: lightblue;
 }
 #main{
     height: 100%;
@@ -59,5 +60,6 @@ html,body{
 .card button:hover{
     background-color: transparent;
     color: royalblue;
+
 
 }
